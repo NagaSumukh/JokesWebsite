@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{07F3BF47-824B-4D3A-B726-08CCE940D055}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JokesWebApp/wwwroot/lib/jquery/dist/jquery.js">
+    <Files>
+      <File FileName="JokesWebApp/Views/Home/Index.cshtml" Line="10" Column="1" />
+      <File FileName="JokesWebApp/Views/Shared/_Layout.cshtml" />
+      <File FileName="JokesWebApp/Controllers/HomeController.cs" />
+      <File FileName="JokesWebApp/Models/Joke.cs" />
+      <File FileName="JokesWebApp/Data/ApplicationDbContext.cs" />
+      <File FileName="JokesWebApp/Data/Migrations/20240123224206_initialsetup.cs" />
+      <File FileName="JokesWebApp/Views/Jokes/Index.cshtml" />
+      <File FileName="JokesWebApp/Views/Home/Privacy.cshtml" />
+      <File FileName="JokesWebApp/Views/Jokes/Edit.cshtml" />
+      <File FileName="JokesWebApp/Views/Jokes/Create.cshtml" />
+      <File FileName="JokesWebApp/Program.cs" Line="1" Column="1" />
+      <File FileName="JokesWebApp/wwwroot/lib/jquery/dist/jquery.js" Line="7917" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JokesWebApp" expanded="True">
+            <Node name="JokesWebApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="lib" expanded="True">
+                  <Node name="jquery" expanded="True">
+                    <Node name="dist" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.JokesWebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
